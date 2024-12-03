@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkproduct_ecommerce=self.webpackChunkproduct_ecommerce||[]).push([[738],{6738:(e,c,s)=>{s.r(c),s.d(c,{default:()=>t});var r=s(579);const t=function(){return(0,r.jsx)("div",{className:"container mt-4",children:(0,r.jsx)("h4",{children:"This is AboutUs"})})}}}]);
-//# sourceMappingURL=738.34f99e94.chunk.js.map
