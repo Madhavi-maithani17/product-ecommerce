@@ -1,0 +1,9 @@
+.product-card {
+    margin: 0.5rem;
+  }
+  
+  @media (min-width: 992px) {
+    .product-card {
+      width: 15rem;
+    }
+  }

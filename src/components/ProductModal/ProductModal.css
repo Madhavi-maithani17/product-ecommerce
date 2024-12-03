@@ -1,0 +1,10 @@
+@media (min-width: 768px) {
+    .custom-modal .modal-content {
+      max-width: 80%;
+    }
+  }
+  .custom-modal img {
+    max-height: 450px;
+    object-fit: cover;
+  }
+  
