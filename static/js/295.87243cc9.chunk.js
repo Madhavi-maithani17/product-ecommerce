@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkproduct_ecommerce=self.webpackChunkproduct_ecommerce||[]).push([[295],{6295:(e,o,c)=>{c.r(o),c.d(o,{default:()=>s});c(5043);var r=c(906),t=c(579);const s=()=>(0,t.jsxs)("div",{style:{textAlign:"center",marginTop:"2rem"},children:[(0,t.jsx)("h1",{children:"404 - Page Not Found"}),(0,t.jsx)("p",{children:"The page you are looking for does not exist."}),(0,t.jsx)(r.N_,{to:"/",children:"Go Back to Home"})]})}}]);
+//# sourceMappingURL=295.87243cc9.chunk.js.map
